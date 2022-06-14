@@ -1,0 +1,24 @@
+# Design Pattern
+- compound components
+
+# Technologies
+- firebase
+
+# Pages
+- Homepage
+- FAQ 
+- Sign In
+- Sign Up
+- Browse Page
+
+# Folder Structure
+
+# Packages Used
+$ npm i styled-components
+$ npm i firebase
+$ npm i fuse.js
+$ npm i react-router-dom
+
+# concepts
+- compound components design pattern
+- tree shaking
